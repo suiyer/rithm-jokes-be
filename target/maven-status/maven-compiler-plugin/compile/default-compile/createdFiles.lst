@@ -1,0 +1,9 @@
+voting/service/JokesService$1.class
+voting/response/JokeVoteResponse.class
+voting/response/JokesResponse.class
+voting/service/JokesService.class
+voting/VotingApplication.class
+voting/response/JokesResponse$Joke.class
+voting/service/JokesService$2.class
+voting/endpoint/JokesEndpoint$ApiError.class
+voting/endpoint/JokesEndpoint.class
